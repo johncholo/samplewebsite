@@ -1,10 +1,70 @@
 let songs = [
-    {
-       name: 'Tingin',
-       path: 'songs/tingin.mp3',
-       artist: 'Cup of Joe & Janine Teñoso',
-       cover: 'images/tingin.jpg',
-    },
+   {
+      name: 'Dilaw',
+      path: 'songs/dil.mp3',
+      artist: 'Maki',
+      cover: 'images/dil.jpg',
+   },
+   {
+      name: 'Salamin Salamin',
+      path: 'songs/salamin.mp3',
+      artist: 'BINI',
+      cover: 'images/bini1.jpg',
+   },
+   {
+      name: 'Birds of a Feather',
+      path: 'songs/billie.mp3',
+      artist: 'Billie Eilish',
+      cover: 'images/billie.jpg',
+   },
+   {
+      name: 'Pantropiko',
+      path: 'songs/pantro.mp3',
+      artist: 'BINI',
+      cover: 'images/binip.jpg',
+   },
+   {
+      name: 'Please Please Please',
+      path: 'songs/please.mp3',
+      artist: 'Sabrina Carpenter',
+      cover: 'images/sab1.jpg',
+   },
+   {
+      name: 'Karera',
+      path: 'songs/karera.mp3',
+      artist: 'BINI',
+      cover: 'images/bini1.jpg',
+   },
+   {
+      name: 'Espresso',
+      path: 'songs/espre.mp3',
+      artist: 'Sabrina Carpenter',
+      cover: 'images/sab1.jpg',
+   },
+   {
+      name: 'Palagi',
+      path: 'songs/tj.mp3',
+      artist: 'TJ Monterde',
+      cover: 'images/tj.jpg',
+   },
+   {
+      name: 'Walang Alam',
+      path: 'songs/heva.mp3',
+      artist: 'Hev Avi',
+      cover: 'images/hev.jpg',
+   },
+   {
+      name: 'Lagi',
+      path: 'songs/binilagi.mp3',
+      artist: 'BINI',
+      cover: 'images/bini2.jpg',
+   },
+   {
+      name: 'Tingin',
+      path: 'songs/tingin.mp3',
+      artist: 'Cup of Joe & Janine Teñoso',
+      cover: 'images/tingin.jpg',
+   },
     {
        name: 'Heaven Knows',
        path: 'songs/ol.mp3',
@@ -29,12 +89,6 @@ let songs = [
        artist: 'Hev Avi',
        cover: 'images/hev.jpg',
     },
-    {
-      name: 'Dilaw',
-      path: 'songs/dil.mp3',
-      artist: 'Maki',
-      cover: 'images/dil.jpg',
-   },
    {
       name: 'Girl be mine',
       path: 'songs/fm.mp3',
