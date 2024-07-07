@@ -109,9 +109,9 @@ span{
     width: auto;
 }
 
-.images:hover .lion{
-    width: 720px;
-    height: 520px;
+.images:hover .headset{
+    width: 920px;
+    height: 450px;
 }
 
 
@@ -140,6 +140,12 @@ span{
     position: absolute;
     margin-bottom: 20px;
 
+}
+
+#tbody{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman',
 }
 
 .content form {
