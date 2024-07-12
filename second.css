@@ -198,8 +198,15 @@ span{
     align-items: center;
 }
 
+.carousel {
+    width: 550px;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .music-player {
-    width: 350px;
+    width: 400px;
     height: 550px;
     border-radius: 35px;
     background: rgba(0, 0, 0, 0.0.8);
